@@ -1,4 +1,5 @@
 # Master Thesis — Carlo Forconi
+![Thesis Cover](figures/Cover.png)
 
 📄 **Download the thesis:**
 [Master_Thesis_Carlo_Forconi.pdf](thesis/Master_Thesis_Carlo_Forconi.pdf)
