@@ -11,9 +11,9 @@ Due to its chemical and physical instability, radioactive liquid organic waste (
 
 ## Key Contributions
 
-* Contribution 1
-* Contribution 2
-* Contribution 3
+* radioactive waste management
+* radioactive liquid organic waste
+* geopolymers
 
 ## Repository Structure
 
