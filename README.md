@@ -18,7 +18,7 @@ Due to its chemical and physical instability, radioactive liquid organic waste (
 ## Repository Structure
 
 * `thesis/` – final PDF
-* `figures/cover.png` – figures used in the thesis
+* `figures/` – figures used in the thesis
 * `supplementary/` – code or additional material
 
 ## Citation
